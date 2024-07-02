@@ -1,0 +1,105 @@
+# Copyright (C) 2020 MemberFix
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mf Divi Module List Category Posts 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mf-divi-module-"
+"list-category-posts-Source\n"
+"POT-Creation-Date: 2020-07-04 08:57:58+00:00\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:7
+msgid "MF Category Posts"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:12
+msgid "Content"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:18
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:54
+msgid "Text"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:70
+msgid "Link"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:85
+msgid "Unordered List"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:101
+msgid "Ordered List"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:117
+msgid "Blockquote"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:137
+msgid "Title"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:140
+msgid "Title will appear above the posts links."
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:160
+msgid "Post Type"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:164
+msgid "Choose posts of which post type you would like to display."
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:186
+msgid "Included Categories"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:189
+msgid "All Categories"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:190
+msgid "Current Category"
+msgstr ""
+
+#: includes/modules/MfCategoryPosts/MfCategoryPosts.php:196
+msgid "Choose which categories you would like to include in the feed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Mf Divi Module List Category Posts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://memberfix.rocks/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a new module to Divi Builder which generates a list of posts for one "
+"category or multiple categories."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MemberFix"
+msgstr ""
